@@ -36,3 +36,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 
 Mencoba latihan fork
+coba sendiri
